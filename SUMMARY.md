@@ -1,7 +1,7 @@
 # Summary
 
 * [Github](README.md)
-* Installation
+* [Installation](installation.md)
     * update
 * [Structure](chapter1.md)
 * [MVC](test.md)

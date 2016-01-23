@@ -1,6 +1,6 @@
 # Summary
 
 * [Github](README.md)
-* [First Chapter](chapter1.md)
+* [folder 結構](chapter1.md)
 * [test](test.md)
 
